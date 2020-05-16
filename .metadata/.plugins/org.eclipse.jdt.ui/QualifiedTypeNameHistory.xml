@@ -4,4 +4,10 @@
 <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
 <fullyQualifiedTypeName name="java.sql.ResultSet"/>
 <fullyQualifiedTypeName name="java.lang.Class"/>
+<fullyQualifiedTypeName name="java.math.BigDecimal"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="com.neuedu.entity.Product"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.neuedu.dao.impl.ProductDaoImpl"/>
+<fullyQualifiedTypeName name="com.neuedu.dao.ProductDao"/>
 </qualifiedTypeNameHistroy>
