@@ -34,7 +34,7 @@ public class DBUtils {
 		
 		try {
 			Class.forName("com.mysql.jdbc.Driver");
-			conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/shop?uesSSL=false", "root", "root");
+			conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/soccer?uesSSL=false", "root", "root");
 			psta = conn.prepareStatement(sql);
 			rs = psta.executeQuery();
 			Field[] fields = c.getDeclaredFields();

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/dao/PetDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/server/AdminService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/tools/FileUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/tools/GUITools.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/Administrator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/Subscriber.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/WelcomeFrame.java" charset="GBK" />
+  </component>
+</project>

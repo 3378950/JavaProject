@@ -13,9 +13,7 @@
 <fullyQualifiedTypeName name="java.lang.InstantiationException"/>
 <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
 <fullyQualifiedTypeName name="java.lang.IllegalAccessException"/>
-<fullyQualifiedTypeName name="java.util.Date"/>
 <fullyQualifiedTypeName name="com.mysql.fabric.xmlrpc.base.Data"/>
-<fullyQualifiedTypeName name="java.sql.Date"/>
 <fullyQualifiedTypeName name="com.neuedu.annotation.Table"/>
 <fullyQualifiedTypeName name="com.neuedu.annotation.Column"/>
 <fullyQualifiedTypeName name="com.neuedu.entity.Cart"/>
@@ -33,8 +31,17 @@
 <fullyQualifiedTypeName name="com.neuedu.dto.OrderDTO"/>
 <fullyQualifiedTypeName name="com.neuedu.entity.OrderItem"/>
 <fullyQualifiedTypeName name="java.math.BigDecimal"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="com.neuedu.dto.SimpleOrderItem"/>
 <fullyQualifiedTypeName name="com.neuedu.util.DBUtils"/>
 <fullyQualifiedTypeName name="com.neuedu.entity.Product"/>
+<fullyQualifiedTypeName name="utils.DBUtils"/>
+<fullyQualifiedTypeName name="dbc.JDBC"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="entity.coach"/>
+<fullyQualifiedTypeName name="entity.team"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="jdk.management.resource.internal.inst.SimpleAsynchronousFileChannelImplRMHooks"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="entity.player"/>
 </qualifiedTypeNameHistroy>
